@@ -3,18 +3,10 @@ Hey my name is Rukvith,I'm a Computer Science student at UMBC.
 I enjoy building projects, learning new technologies, and improving my skills through hands-on work.
 
 ### 💻 Tech
-- C 
-- C++ 
-- Java
-- Python 
-- JavaScript
-- Git
-- GitHub
+- C - C++ - Java- Python - JavaScript - Git - GitHub
 
 ### 🚀 Interests
-- Software Development 
-- Web Development
-- AI
+- Software Development - Web Development - AI
  
 ### 🛠️ My Personal Projects
 - **Custom Shell** — Built a terminal/shell in C with command handling, history, and process execution.
